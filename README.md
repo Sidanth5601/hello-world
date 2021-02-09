@@ -4,4 +4,4 @@ this is  the branch where we get a copy of the master branch  and when we satisf
 changes we can merge this with the master using commit
 myself sidanth , currently pursing b.tech in India , specializing in IT field
 //8-2-2021
-after a year, again learninhg github
+after a year, again learning github
